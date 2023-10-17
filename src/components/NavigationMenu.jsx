@@ -1,5 +1,7 @@
-export function NavigationMenu () {
+export default function NavigationMenu () {
     return (
-        navigation
+        <div>
+            navigation
+        </div>
     );
 }

@@ -1,5 +1,7 @@
-export function ImageSideBar () {
+export default function ImageSideBar () {
     return (
-        image
+        <div>
+            image
+        </div>
     );
 }

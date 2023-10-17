@@ -1,5 +1,7 @@
-export function WelcomeText () {
+export default function WelcomeText () {
     return (
-        welcome
+        <div>
+            welcome
+        </div>
     );
 }
