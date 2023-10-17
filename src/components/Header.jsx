@@ -1,7 +1,10 @@
 export default function Header () {
     return (
-        <div>
-            header
-        </div>
+        <section className="header">
+            <div className="header">
+                <h1>Birdwatching</h1>
+                <img src="dove.png" alt="a simple dove logo" />
+            </div>
+        </section>
     );
 }
