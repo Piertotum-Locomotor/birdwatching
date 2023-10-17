@@ -3,7 +3,6 @@ import NavigationMenu from "./components/NavigationMenu";
 import MainContaints from "./components/MainContaints";
 import Footer from "./components/Footer";
 
-
 export default function App() {
     return (
         <div>
