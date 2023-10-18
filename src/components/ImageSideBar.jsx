@@ -1,6 +1,5 @@
 export default function ImageSideBar () {
     return (
-        <div className="image">
             <aside>
                 <h2>Favourite photos</h2>
 
@@ -9,6 +8,5 @@ export default function ImageSideBar () {
                 <a href="favorite-3.jpg"><img src="favorite-3_th.jpg" alt="Top half of a large bird with white plumage, very long curved narrow light colored break, links to larger version of the image" /></a>
                 <a href="favorite-4.jpg"><img src="favorite-4_th.jpg" alt="Large bird, mostly white plumage with black plumage on back and rear, long straight white beak, links to larger version of the image" /></a>
             </aside>
-        </div>
     );
 }

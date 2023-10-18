@@ -1,6 +1,5 @@
 export default function WelcomeText () {
     return (
-        <div className="welcome">
             <article>
                 <h2>Welcome</h2>
 
@@ -8,6 +7,5 @@ export default function WelcomeText () {
 
                 <p>So don't waste time! Get what you need, then turn off that computer and get out into the great outdoors!</p>
             </article>
-        </div>
     );
 }
